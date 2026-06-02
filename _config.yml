@@ -4,19 +4,19 @@
 
 title: Giorgio Bono # the website title (if blank, full name will be used instead)
 first_name: Giorgio
-middle_name: 
+middle_name:
 last_name: Bono
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I am always open to discussing new projects, research opportunities, or innovative ideas in Data Science.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal academic website.
+  Portfolio of Giorgio Bono, Data Science and Engineering student at Politecnico di Torino,
+  CentraleSupélec, and Université de Lorraine.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: data science, engineering, machine learning, optimization, computer vision, robotics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://giorgio-bono.github.io # the base hostname & protocol for your site
 baseurl: /academic-website-draft # the subpath of your site, e.g. /blog/. Leave blank for root
