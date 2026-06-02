@@ -40,20 +40,16 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
+    <!-- Research experience -->
+    {% if page.research_experience %}
+      <h2>research experience</h2>
+      {% include homepage_entries.liquid entries=page.research_experience %}
     {% endif %}
 
-    <!-- Latest posts -->
-    {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
+    <!-- Additional experience -->
+    {% if page.other_experience %}
+      <h2>additional experience</h2>
+      {% include homepage_entries.liquid entries=page.other_experience %}
     {% endif %}
 
     <!-- Selected papers -->
