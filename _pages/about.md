@@ -32,8 +32,8 @@ other_experience:
     url: https://synesthesia.it/
     description: Workshops on artificial intelligence concepts and accessible AI tools for elementary school educators.
   - date: Oct 2024 - Oct 2025
-    title: Squadra Corse Driverless PoliTO
-    url: https://www.cars.polito.it/it/news/squadra_corse_driverless_student_team_has_been_estabilished
+    title: Squadra Corse PoliTO
+    url: https://www.squadracorsepolito.com/
     description: Development of LiDAR-based systems for autonomous driving applications.
 ---
 
@@ -43,7 +43,7 @@ I hold a Bachelor's degree in Computer Engineering from Politecnico di Torino.
 
 I am conducting my Master's thesis at [KTH Royal Institute of Technology](https://www.kth.se/en), within the [Department of Robotics, Perception and Learning (RPL)](https://www.kth.se/rpl). My research focuses on multi-task reinforcement learning and task representations for robotics.
 
-I contributed to [Squadra Corse Driverless PoliTO](https://www.cars.polito.it/it/news/squadra_corse_driverless_student_team_has_been_estabilished), working on LiDAR-based systems for autonomous driving applications.
+I contributed to [Squadra Corse PoliTO](https://www.squadracorsepolito.com/), working on LiDAR-based systems for autonomous driving applications.
 
 Previously, I participated in the [UROP@PoliTO](https://www.polito.it/en/education/active-learning/honors-programs/undergraduate-research-opportunities-programme) research program with the project _From Natural Language Text to Source Code_. I investigated approaches to improve small and medium-sized language models, up to 15B parameters, for text-to-SQL tasks on the [BIRD benchmark](https://bird-bench.github.io/), experimenting with [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) for optimization and evaluation.
 
