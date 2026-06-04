@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Selected projects in machine learning, optimization, and computer vision.",
+          description: "Selected projects in machine learning, robotics, optimization, and software engineering.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academic-website-draft/projects/";
@@ -428,6 +428,11 @@ ninja.data = [{
           description: "Deep learning pipeline for RGB-D object pose estimation.",
           section: "Projects",handler: () => {
               window.location.href = "/academic-website-draft/projects/6d-pose-estimation/";
+            },},{id: "projects-advanced-c",
+          title: 'Advanced C++',
+          description: "Laboratories and projects from the Advanced C++ course at CentraleSupélec.",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic-website-draft/projects/advanced-cpp/";
             },},{id: "projects-age-prediction-from-voice",
           title: 'Age Prediction from Voice',
           description: "Audio machine learning pipeline for speaker age prediction.",
@@ -453,6 +458,21 @@ ninja.data = [{
           description: "Face recognition system based on dimensionality reduction and classification.",
           section: "Projects",handler: () => {
               window.location.href = "/academic-website-draft/projects/face-recognition-systems/";
+            },},{id: "projects-robot-learning",
+          title: 'Robot Learning',
+          description: "Laboratory assignments on machine learning and reinforcement learning for robotics.",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic-website-draft/projects/robot-learning/";
+            },},{id: "projects-unsupervised-learning-spectral-clustering",
+          title: 'Unsupervised Learning - Spectral Clustering',
+          description: "MATLAB implementation of spectral clustering for non-linearly separable datasets.",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic-website-draft/projects/unsupervised-learning-spectral-clustering/";
+            },},{id: "projects-zoocam-challenge",
+          title: 'ZooCAM Challenge',
+          description: "First-place solution for a large-scale plankton image classification challenge.",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic-website-draft/projects/zoocam-challenge/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
