@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected projects in machine learning, optimization, and computer vision.
+description: Selected projects in machine learning, robotics, optimization, and software engineering.
 nav: true
 nav_order: 1
-display_categories: [machine-learning, optimization, computer-vision, data-analysis]
+display_categories: [deep-learning, machine-learning, robotics, optimization, computer-vision, data-analysis]
 horizontal: false
 ---
 
