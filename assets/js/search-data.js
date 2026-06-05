@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/academic-website-draft/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/academic-website-draft/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -443,6 +436,11 @@ ninja.data = [{
           description: "Unsupervised learning for behavioral survey analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/academic-website-draft/projects/behavioral-profiling-analysis/";
+            },},{id: "projects-cxsom-rl-vertical-rocket-control",
+          title: 'CXSOM RL - Vertical Rocket Control',
+          description: "Self-organizing maps for predictive control of a vertical rocket.",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic-website-draft/projects/cxsom-rl-vertical-rocket/";
             },},{id: "projects-dl-for-numerical-optimization",
           title: 'DL for Numerical Optimization',
           description: "Numerical optimization experiments on complex non-convex functions.",
@@ -463,6 +461,11 @@ ninja.data = [{
           description: "Laboratory assignments on machine learning and reinforcement learning for robotics.",
           section: "Projects",handler: () => {
               window.location.href = "/academic-website-draft/projects/robot-learning/";
+            },},{id: "projects-squadra-corse-perception-and-computer-vision",
+          title: 'Squadra Corse Perception and Computer Vision',
+          description: "LiDAR-based odometry and real-time localization for autonomous racing.",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic-website-draft/projects/squadra-corse-perception-computer-vision/";
             },},{id: "projects-unsupervised-learning-spectral-clustering",
           title: 'Unsupervised Learning - Spectral Clustering',
           description: "MATLAB implementation of spectral clustering for non-linearly separable datasets.",
