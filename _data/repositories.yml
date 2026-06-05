@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - giorgio-bono
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - giorgio-bono/ZooCAM_Challenge
+  - giorgio-bono/Machine-Learning-for-Age-Detection
+  - giorgio-bono/Robot_Learning
+  - giorgio-bono/Advanced-Cpp
+  - giorgio-bono/AI-Driven-Dynamic-Pricing-Model
+  - giorgio-bono/6DPose_Estimation
+  - giorgio-bono/Deep-Learning-Numerical-Optimization
+  - giorgio-bono/Unsupervised-Learning-Spectral-Clustering
+  - giorgio-bono/Dimensionality-Reduction-for-Behavioral-Profiling
+  - giorgio-bono/Face-Recognition
