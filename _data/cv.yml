@@ -1,189 +1,194 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Giorgio Bono
+  label: Data Science and AI for Computer Vision and Robotics
+  email: bono.giorgio.02@gmail.com
+  phone: "+393319784700"
+  location: Turin, Italy / Stockholm, Sweden
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Data Science and AI for Computer Vision and Robotics dual-degree Master's student with strong analytical and problem-solving skills. Motivated to contribute autonomously and collaborate effectively in team environments.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: giorgio-bono
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: giorgio-bono
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: KTH Royal Institute of Technology
+        location: Stockholm, Sweden
+        url: https://www.kth.se/en
+        area: Multi-task Reinforcement Learning and task representations for robotics
+        studyType: Master's thesis
+        start_date: 2026-05
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Conducting Master's thesis within the Department of Robotics, Perception and Learning (RPL).
+          - Research focus on multi-task reinforcement learning and task representations for robotics.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Université de Lorraine
+        location: France
+        url: https://www.univ-lorraine.fr/
+        area: Intelligence Artificielle et ses Applications en Vision et Robotique (IA2VR)
+        studyType: Master M2
+        start_date: 2025-09
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Double-degree Master's program in Artificial Intelligence, Computer Vision, and Robotics.
+
+      - institution: CentraleSupélec, Université Paris-Saclay
+        location: France
+        url: https://www.centralesupelec.fr/
+        area: Exchange program
+        studyType: Cursus Ingénieur 3ème année
+        start_date: 2025-09
+        end_date: Present
+        highlights:
+          - "Relevant coursework: Reinforcement Learning, GPU Programming, Advanced C++, Deep Natural Language Processing, Machine Learning, Deep Learning, Statistical Models, Statistical Learning, Software Engineering."
+
+      - institution: Politecnico di Torino
+        location: Turin, Italy
+        url: https://www.polito.it/
+        area: Artificial Intelligence
+        studyType: M.Sc.
+        start_date: 2024-09
+        end_date: Present
+        highlights:
+          - "Relevant coursework: Machine Learning and Deep Learning, Numerical and Stochastic Optimization, Distributed Architectures for Big Data."
+
+      - institution: Politecnico di Torino
+        location: Turin, Italy
+        url: https://www.polito.it/
+        area: Computer Engineering
+        studyType: B.Sc.
+        start_date: 2021-09
+        end_date: 2024-09
+        highlights:
+          - "Relevant coursework: Algorithms and Data Structures, Object-Oriented Programming, Applied Electronics."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: KTH Royal Institute of Technology
+        position: Master's Thesis Student
+        location: Stockholm, Sweden
+        url: https://www.kth.se/rpl
+        start_date: 2026-05
+        end_date: Present
+        summary: Department of Robotics, Perception and Learning (RPL)
         highlights:
-          - Relativity
-          - Description 2.
+          - Working on multi-task reinforcement learning and task representations for robotics.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Squadra Corse DRIVERLESS | PoliTO
+        position: Perception and Computer Vision Division Member
+        location: Turin, Italy
+        url: https://www.squadracorsepolito.com/
+        start_date: 2024-10
+        end_date: 2025-10
         highlights:
-          - Description 1.
-          - Description 2.
+          - Worked on LiDAR-based odometry for real-time localization in an autonomous vehicle.
+          - Focused on point cloud alignment and system integration with ROS2, Python, and C++.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Synesthesia
+        position: AI Workshop Instructor for Primary School Teachers
+        location: Turin, Italy
+        url: https://synesthesia.it/
+        start_date: 2025-02
+        end_date: 2025-06
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Designed and delivered workshops introducing artificial intelligence concepts to elementary school educators.
+          - Taught practical uses of accessible AI tools, including image generators and chatbots, for classroom integration.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Synesthesia
+        position: Computer Science Workshop Educator
+        location: Turin, Italy
+        url: https://synesthesia.it/
+        start_date: 2024-11
+        end_date: 2025-06
+        highlights:
+          - Conducted interactive workshops for children aged 7 to 11.
+          - Taught fundamental programming concepts using Scratch, Sphero indi, and micro:bit with the Maqueen robot.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - company: Politecnico di Torino
+        position: UROP Researcher
+        location: Turin, Italy
+        url: https://www.polito.it/en/education/active-learning/honors-programs/undergraduate-research-opportunities-programme
+        start_date: 2025-03
+        end_date: 2025-09
+        summary: From Natural Language Text to Source Code
+        highlights:
+          - Researched Text-to-SQL approaches with small and medium-sized language models up to 15B parameters.
+          - Worked on the BIRD benchmark and experimented with AdalFlow for optimization and evaluation.
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: KTH Master's Thesis - Multi-task Reinforcement Learning
+        url: https://www.kth.se/rpl
+        summary: Ongoing thesis within KTH RPL on multi-task reinforcement learning and task representations for robotics.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: ZooCAM Challenge
+        url: https://github.com/giorgio-bono/ZooCAM_Challenge
+        summary: First-place solution for the CentraleSupélec Deep Learning Kaggle challenge on plankton image classification with 1.2M samples and 86 classes.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Squadra Corse LiDAR Odometry
+        url: https://www.squadracorsepolito.com/
+        summary: LiDAR-based odometry project for real-time autonomous vehicle localization, focused on point cloud alignment and ROS2 system integration.
+
+      - name: UROP Text-to-SQL with Small LLMs
+        url: https://www.polito.it/en/education/active-learning/honors-programs/undergraduate-research-opportunities-programme
+        summary: Research project on Text-to-SQL methods with small and medium-sized language models on the BIRD benchmark.
+
+      - name: Reinforcement Learning in a Multi-SOM Architecture
+        url: https://github.com/Ekeichi/cxsom-rl-2
+        summary: Research project developed at CentraleSupélec to control a non-Markovian dynamic system, a vertical rocket, in a continuous environment using connected CXSOM maps.
+
+      - name: 6D Pose Estimation - Driverless Application
+        url: https://github.com/giorgio-bono/6DPose_Estimation
+        summary: Developed a deep learning model for 6D object pose estimation based on GNN and PointNet++, using YOLO and ResNet on the LINEMOD dataset and testing on a simulator for real-time perception.
+
+    Skills:
+      - name: Programming and Software
+        keywords:
+          - Python
+          - C
+          - C++
+          - Java
+          - MATLAB
+          - Docker
+          - Git
+          - Linux
+          - CMake
+
+      - name: Machine Learning and Data
+        keywords:
+          - PyTorch
+          - scikit-learn
+          - Pandas
+          - NumPy
+          - SciPy
+          - Matplotlib
+          - Seaborn
+
+      - name: Robotics and Computer Vision
+        keywords:
+          - ROS2
+          - RViz
+          - Gazebo
+          - LiDAR
+          - OpenCV
+          - YOLO
+
+      - name: Data Engineering
+        keywords:
+          - SQL
+          - NoSQL
+          - Spark
+          - Hadoop
+          - Kafka
+
+    Languages:
+      - name: Italian
+        summary: Native
+
+      - name: English
+        summary: C1
+
+      - name: French
+        summary: B1-B2
