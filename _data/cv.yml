@@ -1,6 +1,6 @@
 cv:
   name: Giorgio Bono
-  label: Data Science and AI for Computer Vision and Robotics
+  label: AI & Robotics Engineer
   email: bono.giorgio.02@gmail.com
   phone: "+393319784700"
   location: Turin, Italy / Stockholm, Sweden
@@ -25,6 +25,7 @@ cv:
         highlights:
           - Conducting Master's thesis within the Department of Robotics, Perception and Learning (RPL).
           - Research focus on multi-task reinforcement learning and task representations for robotics.
+          - Currently working on skill discovery via Vision-Language Models (VLMs).
 
       - institution: Université de Lorraine
         location: France
@@ -76,9 +77,10 @@ cv:
         summary: Department of Robotics, Perception and Learning (RPL)
         highlights:
           - Working on multi-task reinforcement learning and task representations for robotics.
+          - Currently working on skill discovery via Vision-Language Models (VLMs).
 
       - company: Squadra Corse DRIVERLESS | PoliTO
-        position: Perception and Computer Vision Division Member
+        position: Perception and Computer Vision Engineer
         location: Turin, Italy
         url: https://www.squadracorsepolito.com/
         start_date: 2024-10
@@ -88,7 +90,7 @@ cv:
           - Focused on point cloud alignment and system integration with ROS2, Python, and C++.
 
       - company: Synesthesia
-        position: AI Workshop Instructor for Primary School Teachers
+        position: AI Workshop Professor
         location: Turin, Italy
         url: https://synesthesia.it/
         start_date: 2025-02
@@ -121,7 +123,7 @@ cv:
     Projects:
       - name: KTH Master's Thesis - Multi-task Reinforcement Learning
         url: https://www.kth.se/rpl
-        summary: Ongoing thesis within KTH RPL on multi-task reinforcement learning and task representations for robotics.
+        summary: Ongoing thesis within KTH RPL on multi-task reinforcement learning and task representations for robotics, currently focused on skill discovery via Vision-Language Models (VLMs).
 
       - name: ZooCAM Challenge
         url: https://github.com/giorgio-bono/ZooCAM_Challenge
@@ -191,4 +193,4 @@ cv:
         summary: C1
 
       - name: French
-        summary: B1-B2
+        summary: B2

@@ -20,7 +20,7 @@ research_experience:
   - date: May 2026 - Present
     title: Master's Thesis at KTH Royal Institute of Technology
     url: https://www.kth.se/rpl
-    description: Multi-task reinforcement learning and task representations for robotics within the Department of Robotics, Perception and Learning (RPL).
+    description: Multi-task reinforcement learning and task representations for robotics within the Department of Robotics, Perception and Learning (RPL). Currently working on skill discovery via Vision-Language Models (VLMs).
   - date: Mar 2025 - Sep 2025
     title: UROP@PoliTO Research Program
     url: https://www.polito.it/en/education/active-learning/honors-programs/undergraduate-research-opportunities-programme
@@ -28,7 +28,7 @@ research_experience:
 
 other_experience:
   - date: Feb 2025 - Jun 2025
-    title: AI Workshop Instructor for Teachers at Synesthesia
+    title: AI Workshop Professor at Synesthesia
     url: https://synesthesia.it/
     description: Workshops on artificial intelligence concepts and accessible AI tools for elementary school educators.
   - date: Oct 2024 - Oct 2025
@@ -41,13 +41,13 @@ I am a Master's student in [Data Science and Engineering](https://www.polito.it/
 
 I hold a Bachelor's degree in Computer Engineering from Politecnico di Torino.
 
-I am conducting my Master's thesis at [KTH Royal Institute of Technology](https://www.kth.se/en), within the [Department of Robotics, Perception and Learning (RPL)](https://www.kth.se/rpl). My research focuses on multi-task reinforcement learning and task representations for robotics.
+I am conducting my Master's thesis at [KTH Royal Institute of Technology](https://www.kth.se/en), within the [Department of Robotics, Perception and Learning (RPL)](https://www.kth.se/rpl). My research focuses on multi-task reinforcement learning and task representations for robotics; currently, I am working on skill discovery via Vision-Language Models (VLMs).
 
 I contributed to [Squadra Corse PoliTO](https://www.squadracorsepolito.com/), working on LiDAR-based systems for autonomous driving applications.
 
 Previously, I participated in the [UROP@PoliTO](https://www.polito.it/en/education/active-learning/honors-programs/undergraduate-research-opportunities-programme) research program with the project _From Natural Language Text to Source Code_. I investigated approaches to improve small and medium-sized language models, up to 15B parameters, for text-to-SQL tasks on the [BIRD benchmark](https://bird-bench.github.io/), experimenting with [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) for optimization and evaluation.
 
-I worked at [Synesthesia](https://synesthesia.it/) as an AI Workshop Instructor for Teachers. I designed and delivered workshops introducing artificial intelligence concepts to elementary school educators and taught practical uses of accessible AI tools, including image generators and chatbots, for classroom integration.
+I worked at [Synesthesia](https://synesthesia.it/) as an AI Workshop Professor. I designed and delivered workshops introducing artificial intelligence concepts to elementary school educators and taught practical uses of accessible AI tools, including image generators and chatbots, for classroom integration.
 
 ## Research Interests
 
