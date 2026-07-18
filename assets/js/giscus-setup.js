@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "giorgio-bono/academic-website-draft",
+    "data-repo": "giorgio-bono/giorgio-bono.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

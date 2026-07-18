@@ -7,28 +7,28 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/academic-website-draft/";
+      window.location.href = "/";
     },
   },{id: "nav-projects",
           title: "projects",
           description: "Selected projects in machine learning, robotics, optimization, and software engineering.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/academic-website-draft/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Code repositories, coursework, experiments, and implementation-focused projects hosted on GitHub.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/academic-website-draft/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "Academic CV and selected experience.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/academic-website-draft/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2025/plotly/";
+            window.location.href = "/blog/2025/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -49,7 +49,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/photo-gallery/";
+            window.location.href = "/blog/2024/photo-gallery/";
           
         },
       },{id: "post-a-post-with-tabs",
@@ -60,7 +60,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/tabs/";
+            window.location.href = "/blog/2024/tabs/";
           
         },
       },{id: "post-a-post-with-typograms",
@@ -71,7 +71,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/typograms/";
+            window.location.href = "/blog/2024/typograms/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
@@ -82,7 +82,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/post-citation/";
+            window.location.href = "/blog/2024/post-citation/";
           
         },
       },{id: "post-a-post-with-pseudo-code",
@@ -93,7 +93,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/pseudocode/";
+            window.location.href = "/blog/2024/pseudocode/";
           
         },
       },{id: "post-a-post-with-code-diff",
@@ -104,7 +104,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/code-diff/";
+            window.location.href = "/blog/2024/code-diff/";
           
         },
       },{id: "post-a-post-with-advanced-image-components",
@@ -115,7 +115,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/advanced-images/";
+            window.location.href = "/blog/2024/advanced-images/";
           
         },
       },{id: "post-a-post-with-vega-lite",
@@ -126,7 +126,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/vega-lite/";
+            window.location.href = "/blog/2024/vega-lite/";
           
         },
       },{id: "post-a-post-with-geojson",
@@ -137,7 +137,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/geojson-map/";
+            window.location.href = "/blog/2024/geojson-map/";
           
         },
       },{id: "post-a-post-with-echarts",
@@ -148,7 +148,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/echarts/";
+            window.location.href = "/blog/2024/echarts/";
           
         },
       },{id: "post-a-post-with-chart-js",
@@ -159,7 +159,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2024/chartjs/";
+            window.location.href = "/blog/2024/chartjs/";
           
         },
       },{id: "post-a-post-with-tikzjax",
@@ -170,7 +170,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2023/tikzjax/";
+            window.location.href = "/blog/2023/tikzjax/";
           
         },
       },{id: "post-a-post-with-bibliography",
@@ -181,7 +181,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2023/post-bibliography/";
+            window.location.href = "/blog/2023/post-bibliography/";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
@@ -192,7 +192,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2023/jupyter-notebook/";
+            window.location.href = "/blog/2023/jupyter-notebook/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -203,7 +203,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2023/custom-blockquotes/";
+            window.location.href = "/blog/2023/custom-blockquotes/";
           
         },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -214,7 +214,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/blog/2023/sidebar-table-of-contents/";
           
         },
       },{id: "post-a-post-with-audios",
@@ -225,7 +225,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2023/audios/";
+            window.location.href = "/blog/2023/audios/";
           
         },
       },{id: "post-a-post-with-videos",
@@ -236,7 +236,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2023/videos/";
+            window.location.href = "/blog/2023/videos/";
           
         },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -247,7 +247,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2023/tables/";
+            window.location.href = "/blog/2023/tables/";
           
         },
       },{id: "post-a-post-with-table-of-contents",
@@ -258,7 +258,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2023/table-of-contents/";
+            window.location.href = "/blog/2023/table-of-contents/";
           
         },
       },{id: "post-a-post-with-giscus-comments",
@@ -269,7 +269,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2022/giscus-comments/";
+            window.location.href = "/blog/2022/giscus-comments/";
           
         },
       },{id: "post-a-post-with-redirect",
@@ -280,7 +280,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/assets/pdf/example_pdf.pdf";
+            window.location.href = "/assets/pdf/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -291,7 +291,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2021/diagrams/";
+            window.location.href = "/blog/2021/diagrams/";
           
         },
       },{id: "post-a-distill-style-blog-post",
@@ -302,7 +302,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2021/distill/";
+            window.location.href = "/blog/2021/distill/";
           
         },
       },{id: "post-a-post-with-twitter",
@@ -313,7 +313,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2020/twitter/";
+            window.location.href = "/blog/2020/twitter/";
           
         },
       },{id: "post-a-post-with-disqus-comments",
@@ -324,7 +324,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2015/disqus-comments/";
+            window.location.href = "/blog/2015/disqus-comments/";
           
         },
       },{id: "post-a-post-with-math",
@@ -335,7 +335,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2015/math/";
+            window.location.href = "/blog/2015/math/";
           
         },
       },{id: "post-a-post-with-code",
@@ -346,7 +346,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2015/code/";
+            window.location.href = "/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-images",
@@ -357,7 +357,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2015/images/";
+            window.location.href = "/blog/2015/images/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
@@ -368,14 +368,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/academic-website-draft/blog/2015/formatting-and-links/";
+            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/academic-website-draft/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -383,7 +383,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/academic-website-draft/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -391,72 +391,72 @@ ninja.data = [{
           title: '6D Pose Estimation',
           description: "Deep learning pipeline for RGB-D object pose estimation.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/6d-pose-estimation/";
+              window.location.href = "/projects/6d-pose-estimation/";
             },},{id: "projects-advanced-c",
           title: 'Advanced C++',
           description: "Laboratories and projects from the Advanced C++ course at CentraleSupélec.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/advanced-cpp/";
+              window.location.href = "/projects/advanced-cpp/";
             },},{id: "projects-age-prediction-from-voice",
           title: 'Age Prediction from Voice',
           description: "Audio machine learning pipeline for speaker age prediction.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/age-prediction-from-voice/";
+              window.location.href = "/projects/age-prediction-from-voice/";
             },},{id: "projects-behavioral-profiling-analysis",
           title: 'Behavioral Profiling Analysis',
           description: "Unsupervised learning for behavioral survey analysis.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/behavioral-profiling-analysis/";
+              window.location.href = "/projects/behavioral-profiling-analysis/";
             },},{id: "projects-cxsom-rl-vertical-rocket-control",
           title: 'CXSOM RL - Vertical Rocket Control',
           description: "Self-organizing maps for predictive control of a vertical rocket.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/cxsom-rl-vertical-rocket/";
+              window.location.href = "/projects/cxsom-rl-vertical-rocket/";
             },},{id: "projects-dl-for-numerical-optimization",
           title: 'DL for Numerical Optimization',
           description: "Numerical optimization experiments on complex non-convex functions.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/dl-for-numerical-optimization/";
+              window.location.href = "/projects/dl-for-numerical-optimization/";
             },},{id: "projects-dynamic-pricing-ato-model",
           title: 'Dynamic Pricing (ATO Model)',
           description: "Stochastic optimization for Assemble-to-Order dynamic pricing.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/dynamic-pricing-ato-model/";
+              window.location.href = "/projects/dynamic-pricing-ato-model/";
             },},{id: "projects-face-recognition-systems",
           title: 'Face Recognition Systems',
           description: "Face recognition system based on dimensionality reduction and classification.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/face-recognition-systems/";
+              window.location.href = "/projects/face-recognition-systems/";
             },},{id: "projects-robot-learning",
           title: 'Robot Learning',
           description: "Laboratory assignments on machine learning and reinforcement learning for robotics.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/robot-learning/";
+              window.location.href = "/projects/robot-learning/";
             },},{id: "projects-squadra-corse-perception-and-computer-vision",
           title: 'Squadra Corse Perception and Computer Vision',
           description: "LiDAR-based odometry and real-time localization for autonomous racing.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/squadra-corse-perception-computer-vision/";
+              window.location.href = "/projects/squadra-corse-perception-computer-vision/";
             },},{id: "projects-unsupervised-learning-spectral-clustering",
           title: 'Unsupervised Learning - Spectral Clustering',
           description: "MATLAB implementation of spectral clustering for non-linearly separable datasets.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/unsupervised-learning-spectral-clustering/";
+              window.location.href = "/projects/unsupervised-learning-spectral-clustering/";
             },},{id: "projects-zoocam-challenge",
           title: 'ZooCAM Challenge',
           description: "First-place solution for a large-scale plankton image classification challenge.",
           section: "Projects",handler: () => {
-              window.location.href = "/academic-website-draft/projects/zoocam-challenge/";
+              window.location.href = "/projects/zoocam-challenge/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/academic-website-draft/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/academic-website-draft/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -483,7 +483,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/academic-website-draft/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
