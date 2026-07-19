@@ -69,9 +69,9 @@ The competition included:
 
 Our team achieved:
 
-| Leaderboard | Score |
-| --- | --- |
-| Public leaderboard | **0.80506** |
+| Leaderboard         | Score       |
+| ------------------- | ----------- |
+| Public leaderboard  | **0.80506** |
 | Private leaderboard | **0.79164** |
 
 **Final rank: 1st place.**
